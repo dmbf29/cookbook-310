@@ -1,2 +1,6 @@
-Pasta,Dessert
-Turtle Soup,it's got turtle bits
+Pasta,Dessert,,false
+Turtle Soup,it's got turtle bits,,true
+"Red, White and Blue Double-Layered Cheesecake",Dessert,,false
+Roasted Lobster and Potatoes,Main course,,false
+bacon,side,10min,false
+Duck legs with green olives,Main course,30 min,false
